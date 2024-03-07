@@ -1,0 +1,18 @@
+<launch>
+<node pkg="rosbag" type="record" 
+        name="bag_record" 
+        args="
+        /camera/color/image_raw
+        /camera/color/camera_info
+        /camera/depth/points
+        /camera/depth/camera_info
+        /camera/depth/image_raw
+        /glass/color/image_raw
+        /glass/color/camera_info
+        /glass/gaze
+        /imu_head_pub
+        /tf
+        /tf_static
+            -b  40000
+            -O /media/yuxuan/My\ Passport/test_Samcon/data1.bag"/>
+</launch>

@@ -1,0 +1,1376 @@
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.214.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.276.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.313.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.358.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.393.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.276.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.313.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.358.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.393.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.276.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.313.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.358.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.435.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.313.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.358.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.435.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.472.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.358.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.435.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.472.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.518.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.435.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.472.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.518.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.551.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.435.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.472.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.518.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.551.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.593.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.435.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.472.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.518.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.551.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.593.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.472.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.518.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.551.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.641.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.518.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.551.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.641.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.685.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.641.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.723.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.755.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.641.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.723.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.755.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.791.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.641.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.723.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.755.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.791.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.723.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.755.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.843.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.723.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.755.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.843.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.875.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.755.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.843.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.924.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.843.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.924.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.965.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.843.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.924.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.965.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.997.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.843.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.924.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.965.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.997.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.924.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.965.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.044.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.924.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.965.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.044.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.076.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.965.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.044.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.076.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.111.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552332.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.044.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.076.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.158.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.044.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.076.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.158.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.193.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.044.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.076.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.158.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.193.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.076.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.158.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.235.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.158.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.272.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.158.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.317.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.317.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.354.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.317.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.354.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.397.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.317.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.354.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.397.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.430.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.317.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.354.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.397.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.430.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.317.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.354.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.397.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.493.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.354.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.397.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.493.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.523.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.493.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.523.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.559.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.596.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.493.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.523.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.559.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.596.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.632.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.493.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.523.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.559.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.596.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.632.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.523.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.559.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.596.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.632.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.672.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.596.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.632.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.672.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.716.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.756.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.632.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.672.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.716.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.756.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.799.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.672.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.716.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.756.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.799.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.830.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.672.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.716.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.756.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.799.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.830.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.756.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.799.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.830.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.916.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.799.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.830.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.916.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.950.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.830.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.916.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.995.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.916.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.995.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.875.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.916.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.995.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.035.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.916.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.995.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.035.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.075.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552333.995.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.035.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.116.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.160.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.035.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.116.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.160.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.035.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.116.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.160.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.209.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.116.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.160.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.209.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.237.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.116.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.160.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.209.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.237.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.279.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.160.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.209.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.237.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.279.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.318.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.209.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.237.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.279.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.318.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.355.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.209.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.237.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.279.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.318.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.355.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.393.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.237.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.279.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.318.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.355.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.393.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.279.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.318.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.355.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.438.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.318.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.355.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.438.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.481.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.355.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.438.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.481.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.515.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.438.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.481.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.556.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.438.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.481.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.590.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.438.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.481.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.590.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.633.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.481.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.590.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.633.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.590.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.633.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.671.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.590.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.633.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.671.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.715.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.590.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.633.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.671.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.715.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.633.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.671.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.715.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.777.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.793.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.671.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.715.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.777.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.793.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.671.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.715.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.777.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.793.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.836.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.715.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.777.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.793.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.876.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.777.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.793.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.876.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.911.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.777.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.793.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.876.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.911.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.961.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.876.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.911.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.961.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.876.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.911.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.961.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.004.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.034.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.876.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.911.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.961.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.004.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.034.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.911.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.961.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.004.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.072.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552334.961.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.004.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.072.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.115.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.004.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.072.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.115.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.154.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.004.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.072.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.115.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.154.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.193.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.072.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.115.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.154.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.235.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.072.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.115.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.154.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.235.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.115.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.154.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.273.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.154.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.319.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.193.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.319.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.356.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.235.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.319.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.392.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.319.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.392.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.319.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.441.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.319.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.441.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.475.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.441.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.475.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.515.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.441.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.475.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.555.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.441.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.475.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.555.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.592.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.441.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.475.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.555.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.592.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.475.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.555.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.592.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.638.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.555.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.592.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.638.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.685.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.555.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.592.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.638.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.724.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.592.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.638.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.724.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.750.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.638.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.724.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.750.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.638.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.724.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.802.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.836.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.685.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.724.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.802.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.836.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.724.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.802.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.872.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.802.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.872.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.918.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.802.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.872.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.918.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.949.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.802.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.836.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.872.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.918.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.949.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.993.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.872.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.918.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.949.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.993.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.031.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.872.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.918.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.949.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.993.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.031.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.918.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.949.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.993.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.071.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.949.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.993.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.071.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.114.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552335.993.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.071.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.153.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.071.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.153.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.189.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.071.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.153.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.189.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.230.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.071.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.153.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.189.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.230.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.153.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.189.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.230.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.272.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.153.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.189.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.230.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.309.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.189.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.230.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.350.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.230.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.350.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.398.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.350.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.398.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.430.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.272.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.350.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.398.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.430.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.350.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.398.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.478.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.350.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.398.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.510.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.398.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.510.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.556.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.510.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.591.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.510.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.591.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.510.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.591.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.637.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.510.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.591.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.637.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.556.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.591.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.725.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.591.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.725.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.757.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.725.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.757.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.794.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.725.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.757.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.794.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.829.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.725.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.757.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.794.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.829.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.725.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.757.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.794.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.877.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.757.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.794.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.877.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.912.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.794.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.877.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.950.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.877.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.990.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.877.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.990.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.031.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.877.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.990.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.031.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.990.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.069.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.950.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.990.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.114.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552336.990.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.150.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.150.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.199.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.150.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.199.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.150.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.199.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.241.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.114.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.150.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.199.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.241.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.271.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.150.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.199.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.241.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.271.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.309.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.199.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.241.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.271.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.356.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.241.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.271.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.392.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.241.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.271.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.434.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.271.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.434.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.434.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.477.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.434.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.477.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.509.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.434.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.477.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.509.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.549.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.434.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.477.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.509.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.549.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.593.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.477.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.509.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.549.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.629.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.477.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.509.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.549.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.629.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.509.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.549.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.629.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.669.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.549.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.629.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.669.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.710.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.593.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.629.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.669.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.710.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.749.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.629.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.669.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.710.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.788.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.669.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.710.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.788.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.669.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.710.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.788.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.840.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.710.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.788.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.840.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.873.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.749.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.788.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.840.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.913.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.788.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.840.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.913.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.962.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.840.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.913.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.962.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.988.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.840.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.913.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.962.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.988.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.034.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.913.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.962.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.988.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.069.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.913.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.962.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.988.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.069.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.962.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.988.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.118.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552337.988.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.118.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.148.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.034.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.118.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.148.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.191.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.118.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.148.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.191.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.233.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.069.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.118.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.148.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.191.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.233.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.118.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.148.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.191.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.233.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.273.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.148.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.191.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.233.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.309.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.191.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.233.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.353.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.233.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.353.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.393.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.353.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.430.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.273.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.353.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.468.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.309.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.353.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.468.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.353.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.468.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.519.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.393.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.468.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.519.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.548.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.430.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.468.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.519.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.548.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.600.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.468.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.519.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.548.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.600.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.631.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.519.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.548.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.600.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.631.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.519.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.548.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.600.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.631.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.681.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.548.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.600.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.631.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.681.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.721.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.600.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.631.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.681.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.721.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.750.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.631.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.681.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.721.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.790.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.681.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.721.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.790.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.832.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.681.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.721.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.790.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.832.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.721.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.790.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.832.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.873.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.750.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.790.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.832.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.912.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.790.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.832.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.956.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.832.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.956.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.994.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.956.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.994.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.031.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.873.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.956.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.994.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.031.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.912.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.956.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.994.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.075.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.956.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.994.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.111.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552338.994.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.149.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.031.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.149.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.188.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.149.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.188.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.149.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.188.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.244.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.111.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.149.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.188.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.244.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.277.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.149.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.188.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.244.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.277.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.314.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.188.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.244.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.277.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.314.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.356.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.244.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.277.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.314.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.392.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.244.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.277.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.314.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.428.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.277.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.314.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.428.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.314.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.428.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.478.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.356.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.428.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.515.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.392.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.428.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.547.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.428.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.547.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.587.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.547.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.587.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.478.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.547.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.587.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.667.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.515.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.547.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.587.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.667.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.547.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.587.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.667.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.713.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.587.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.667.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.713.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.748.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.667.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.713.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.748.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.791.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.637.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.667.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.713.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.748.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.829.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.713.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.748.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.829.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.713.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.748.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.884.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.748.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.884.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.925.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.791.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.884.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.925.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.954.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.829.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.884.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.925.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.954.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.997.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.884.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.925.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.954.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.026.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.884.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.925.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.954.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.026.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.925.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.954.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.026.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.075.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.954.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.026.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.112.npy
+--------
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552339.997.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.026.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.075.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.112.npy
+/media/yuxuan/My Passport/眼动仪交接 2023.4.6/data/data/3_walking_small_Chen_12_21/test5/orbbec_gaze_2D/1608552340.158.npy

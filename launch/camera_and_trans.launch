@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find astra_camera)/launch/astra.launch"/>
+    <node pkg = "samcon_perception" type = "glass_depth_bridge2.py" name = "glass_depth_bridge"/>
+</launch>

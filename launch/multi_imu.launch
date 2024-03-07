@@ -1,0 +1,4 @@
+<launch>
+    <node pkg = "samcon_perception" type = "imu_.py" name = "imu_head" args="head"/>
+    <node pkg = "samcon_perception" type = "pose_publisher.py" name = "imu_multi" output="screen"/>
+</launch>
